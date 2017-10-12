@@ -1,0 +1,150 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aimant.com" resolutions="1x" timestamp="1507798948158">
+  <folder name="css">
+    <file name="site_global.css" crc="4024321745"/>
+    <file name="master_menu-2.css" crc="67909096" ref="servicios:contactenos:conocenos"/>
+    <file name="master_menu-1.css" crc="4146556947" ref="index"/>
+    <file name="index.css" crc="389965987" ref="index"/>
+    <file name="iefonts_index.css" crc="4153422813" ref="index"/>
+    <file name="servicios.css" crc="3851346574" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="108236529" ref="servicios"/>
+    <file name="contactenos.css" crc="3786948688" ref="contactenos"/>
+    <file name="iefonts_contactenos.css" crc="3981680238" ref="contactenos"/>
+    <file name="conocenos.css" crc="3827457728" ref="conocenos"/>
+    <file name="iefonts_conocenos.css" crc="3981680238" ref="conocenos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:conocenos:servicios:contactenos"/>
+    <file name="museutils.js" crc="17924269" ref="index:conocenos:servicios:contactenos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:conocenos:servicios:contactenos"/>
+    <file name="museconfig.js" crc="278381782" ref="index:conocenos:servicios:contactenos"/>
+    <file name="webpro.js" crc="416662029" ref="index:contactenos"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:conocenos:servicios:contactenos"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:conocenos:servicios:contactenos"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:conocenos:servicios:contactenos"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:conocenos:servicios:contactenos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:conocenos:servicios:contactenos"/>
+    <file name="require.js" crc="3861931657" ref="index:conocenos:servicios:contactenos"/>
+    <file name="form_check.php" crc="4110044762" ref="contactenos"/>
+    <file name="form_throttle.php" crc="22190333" ref="contactenos"/>
+    <file name="form_process.php" crc="257545537" ref="contactenos"/>
+    <file name="form-u5201.php" crc="380219883" ref="contactenos"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3956008817" ref="index"/>
+    <file name="cabecerea-01.jpg" crc="331677193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cabecerea-02.jpg" crc="519681620" seo="true" ref="index:conocenos">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecerea-03.jpg" crc="210279290" seo="true" ref="index:servicios">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="3isologo-color.svg" crc="4040800375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3isologo color_poster_.png" crc="453749532" ref="index"/>
+    <file name="planeta tierra.jpg" crc="105967954" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="borde.png" crc="3868508484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="branding-crop-u3308.jpg" crc="308409919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_1seo-crop-u3350.png" crc="340621978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="borde der.png" crc="3907331953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imac.jpg" crc="3999332029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="css.png" crc="434581385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="html.png" crc="4029633110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="javasc.png" crc="215056400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="php.png" crc="197020975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1logo_aimant.svg" crc="3860358444" ref="index:conocenos"/>
+    <file name="1logo_aimant_poster_u2008.png" crc="3875348516" ref="index:conocenos"/>
+    <file name="isologo-blanco.svg" crc="4252257920" seo="true" ref="conocenos:servicios:contactenos">
+      <caption webpage="conocenos" alt=""/>
+      <caption webpage="contactenos" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="isologo blanco_poster_.png" crc="532597206" ref="conocenos"/>
+    <file name="equipo01.jpg" crc="390791941" seo="true" ref="conocenos">
+      <caption webpage="conocenos" alt=""/>
+    </file>
+    <file name="equipo02.jpg" crc="4172656932" seo="true" ref="conocenos">
+      <caption webpage="conocenos" alt=""/>
+    </file>
+    <file name="equipo03.jpg" crc="3835509371" seo="true" ref="conocenos">
+      <caption webpage="conocenos" alt=""/>
+    </file>
+    <file name="svg-pegado-74x74.svg" crc="27887385" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="svg pegado 74x74_poster_.png" crc="6250938" ref="servicios"/>
+    <file name="svg-pegado-74x742.svg" crc="72596717" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="svg pegado 74x74_poster_2.png" crc="3893352052" ref="servicios"/>
+    <file name="svg-pegado-74x743.svg" crc="104376611" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="svg pegado 74x74_poster_3.png" crc="4292148870" ref="servicios"/>
+    <file name="maracas.png" crc="4184761648" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="identidad corp.png" crc="270073043" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pag web.png" crc="4270959732" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="multimedia.jpg" crc="498699409" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen de serv seo.png" crc="3991216417" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sem.png" crc="3911387167" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="contactanos.jpg" crc="4161851097" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+    <file name="img formulario.jpg" crc="317582114" ref="contactenos">
+      <caption webpage="contactenos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="282433677" seo="true" mt="1507798465178" redirect="true"/>
+  <file name="conocenos.html" crc="4107549778" seo="true" mt="1507798579382" redirect="true"/>
+  <file name="servicios.html" crc="261808058" seo="true" mt="1507798579382" redirect="true"/>
+  <file name="contactenos.html" crc="299997818" seo="true" mt="1507798888829" redirect="true"/>
+</manifest>
